@@ -5,5 +5,7 @@
 ## Game Theory Basic Templates
 * Single variable pattern finding
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Game%20Theory/Single%20state.cpp
-* Dingle variable pattern finding
+* Double variable pattern finding
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Game%20Theory/double%20state%20pattern%20template.cpp
+* if a special condition is added
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Game%20Theory/special%20condition%20pattern%20finding.cpp
