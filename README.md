@@ -9,3 +9,6 @@
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Game%20Theory/double%20state%20pattern%20template.cpp
 * if a special condition is added
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Game%20Theory/special%20condition%20pattern%20finding.cpp
+## Some better Alternate Things
+* Custom Hash
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Some%20better%20alternate%20things/custom%20hash.cpp
