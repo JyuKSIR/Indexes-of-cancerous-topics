@@ -12,3 +12,6 @@
 ## Some better Alternate Things
 * Custom Hash
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Some%20better%20alternate%20things/custom%20hash.cpp
+## Data Structures
+* Implicit Treap
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Data%20Structures/Implicit%20Treap.cpp
