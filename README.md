@@ -25,3 +25,5 @@
 ### Sliding Window
 * Variable Length Sliding window
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Two%20Pointer%20and%20Sliding%20window/Variable%20sliding%20window.cpp
+## Binary Search
+* Binary Search on Answer https://github.com/JyuKSIR/Cancerous-Topics/tree/main/Binary%20Search
