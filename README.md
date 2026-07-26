@@ -33,3 +33,5 @@
 ## Number Theory
 * Divisors
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Divisors.cpp
+* Binary Exponentiation
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Binary%20Exponentiation.cpp
