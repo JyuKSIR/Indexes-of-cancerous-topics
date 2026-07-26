@@ -30,3 +30,6 @@
 ## Binary Search
 * Binary Search on Answer
   https://github.com/JyuKSIR/Cancerous-Topics/tree/main/Binary%20Search
+## Number Theory
+* Divisors
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Divisors.cpp
