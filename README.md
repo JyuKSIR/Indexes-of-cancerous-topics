@@ -1,4 +1,10 @@
 # Indexes-of-cancerous-topics
+## Basic Shits
+### Prefix Sum
+* Prefix Sum 1D
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Basic%20Shits/Prefix%20Sum/Prefix%20Sum%201D.cpp
+* Prefix Sum 2D
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Basic%20Shits/Prefix%20Sum/Prefix%20Sum%202D.cpp
 ## Xor Related Things
 * Maximum Xor pair in an array using Binary trie in O(n)
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Xor%20Templates/Max%20Xor%20of%20any%20pair%20by%20trie.cpp
