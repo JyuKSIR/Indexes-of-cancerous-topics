@@ -35,7 +35,7 @@
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Two%20Pointer%20and%20Sliding%20window/Variable%20sliding%20window.cpp
 ## Binary Search
 * Binary Search on Answer
-  https://github.com/JyuKSIR/Cancerous-Topics/tree/main/Binary%20Search
+  [https://github.com/JyuKSIR/Cancerous-Topics/tree/main/Binary%20Search](https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Binary%20Search/Binary%20Search%20on%20answer.cpp)
 ## Number Theory
 * Divisors
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Divisors.cpp
