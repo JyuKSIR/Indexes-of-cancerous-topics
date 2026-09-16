@@ -41,3 +41,5 @@
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Divisors.cpp
 * Binary Exponentiation
   https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Binary%20Exponentiation.cpp
+* Sieve, SPF and Prime Factorization
+  https://github.com/JyuKSIR/Cancerous-Topics/blob/main/Number%20Theory/Sieve%2C%20SPF%20and%20Prime%20Factorization.cpp
